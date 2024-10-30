@@ -18,7 +18,7 @@ apt -o Acquire::AllowInsecureRepositories=true -o Acquire::AllowDowngradeToInsec
 
 ## 流程图
 
-![流程图](https://raw.githubusercontent.com/johnrosen1/vpstoolbox/master/images/flow.svg)
+![流程图](images/flow.svg)
 
 ## 路由测试
 
@@ -33,7 +33,7 @@ route_test
 
 ## Demo
 
-![demo](https://raw.githubusercontent.com/johnrosen1/vpstoolbox/master/images/demo.png)
+![demo](images/demo.png)
 
 ## 前提条件及使用要点 Usage instruction
 

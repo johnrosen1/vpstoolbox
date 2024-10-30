@@ -201,7 +201,7 @@ Note:
 
 > Too lazy to update, just for reference.
 
-![https://raw.githubusercontent.com/johnrosen1/vpstoolbox/master/images/flow_zh_cn.png](https://raw.githubusercontent.com/johnrosen1/vpstoolbox/master/images/flow_zh_cn.png)
+![https://raw.githubusercontent.com/johnrosen1/vpstoolbox/master/images/flow.svg](images/flow.svg)
 
 ## cha rice aff
 
